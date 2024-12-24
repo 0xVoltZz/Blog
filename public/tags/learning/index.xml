@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning on Terminal</title>
+    <link>/tags/learning/</link>
+    <description>Recent content in Learning on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog: Exploring New Beginnings</title>
+      <link>/posts/setup-server/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/setup-server/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Welcome to My First Blog! 🎉&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hi there!&lt;/p&gt;
+&lt;p&gt;This is my very first blog post, and I couldn&amp;rsquo;t be more excited to share this journey with you. Writing has always been something I&amp;rsquo;ve wanted to try, and today marks the beginning of this exciting adventure.&lt;/p&gt;
+&lt;p&gt;I plan to use this space to share thoughts, ideas, experiences, or anything that inspires me. Whether it&amp;rsquo;s something fun, informative, or just random musings, I hope you&amp;rsquo;ll find it interesting and relatable.&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;strong&gt;Welcome to My First Blog! 🎉&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hi there!&lt;/p&gt;
+&lt;p&gt;This is my very first blog post, and I couldn&amp;rsquo;t be more excited to share this journey with you. Writing has always been something I&amp;rsquo;ve wanted to try, and today marks the beginning of this exciting adventure.&lt;/p&gt;
+&lt;p&gt;I plan to use this space to share thoughts, ideas, experiences, or anything that inspires me. Whether it&amp;rsquo;s something fun, informative, or just random musings, I hope you&amp;rsquo;ll find it interesting and relatable.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;a-little-about-me&#34;&gt;A Little About Me&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;m a curious learner who loves exploring new topics and diving into creative projects. Recently, I&amp;rsquo;ve been getting into coding, particularly with Python. It&amp;rsquo;s amazing how much you can create with just a few lines of code.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;my-first-python-program&#34;&gt;My First Python Program&lt;/h3&gt;
+&lt;p&gt;Since I&amp;rsquo;m learning Python, here&amp;rsquo;s a simple example of a Python program that prints a friendly message:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# My first Python program&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;greet&lt;/span&gt;(name):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;f&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, &lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;{&lt;/span&gt;name&lt;span style=&#34;color:#e6db74&#34;&gt;}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;! Welcome to my blog.&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Let&amp;#39;s greet a reader&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;reader_name &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Abdulrhman&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(greet(reader_name))
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;!&lt;img src=&#34;/images/12.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
